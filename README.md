@@ -15,4 +15,9 @@ GREEN LED,모터 정지 상태 표시,27
 
 Motor Enable,모터 드라이버 ON/OFF 제어,24
 
-Buzzer (PWM),멜로디 연주,23
+Buzzer (PWM),멜로디 연주,17
+
+keypad  리본케이블 J8 -> BT1  
+                   J7 -> BT2
+
+                   
