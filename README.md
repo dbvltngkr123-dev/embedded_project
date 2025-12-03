@@ -1,4 +1,5 @@
 pi@raspberrypi:~ $ cd embedded_project
+
 pi@raspberrypi:~ $ python3 Doorlockrg.py
 
 
