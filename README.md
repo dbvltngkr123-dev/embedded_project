@@ -1,8 +1,17 @@
 pi@raspberrypi:~ $ cd embedded_project
+pi@raspberrypi:~ $ python3 Doorlockrg.py
+
 
 pi@raspberrypi:~.embedded_project $ nano led_buzzer_test.py
 
 pi@raspberrypi:~/embedded_project $ python3 led_buzzer_test.py
+1234 먼저 비밀번호 맞추는것을 입력
+error 그다음 5회틀려서 비밀번호 경고음
+1515 그다음 비밀번호를 바꾸는걸 보여줌
+  잘되었나 확인해서 비밀번호 맞는걸 보여줌
+1212 원래 비밀번호를 입력해서 비밀번호가 확실히 바뀐걸 보여줌
+그다음 1125를 입력해 무음 패닉 모드(비상 상황 알림)  
+마지막 1161을 입력해 구급차를 호출하는듯한 연출을 보여줌 
 
 
 
