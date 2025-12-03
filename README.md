@@ -2,11 +2,6 @@ pi@raspberrypi:~ $ cd embedded_project
 
 pi@raspberrypi:~ $ python3 Doorlockrg.py
 
-
-pi@raspberrypi:~.embedded_project $ nano led_buzzer_test.py
-
-pi@raspberrypi:~/embedded_project $ python3 led_buzzer_test.py
-
 1234 먼저 비밀번호 맞추는것을 입력
 
 error 그다음 5회틀려서 비밀번호 경고음
