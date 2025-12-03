@@ -20,4 +20,6 @@ Buzzer (PWM),멜로디 연주,17
 keypad  리본케이블 J8 -> BT1  
                    J7 -> BT2
 
+
+Doorlockrg.py가 레알 찐최종본
                    
