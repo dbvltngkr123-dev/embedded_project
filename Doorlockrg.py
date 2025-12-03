@@ -46,7 +46,7 @@ STEALTH_TONE_FREQ = 200 # 스텔스 모드 저음 주파수
 
 # [NEW SECURITY] 5회 실패 시 락다운 설정
 FAILURE_LIMIT = 5       # 최대 실패 횟수
-LOCKDOWN_DURATION = 60  # 락다운 시간 (초)
+LOCKDOWN_DURATION = 15  # 락다운 시간 (초)
 
 # [NEW STATE VARIABLES]
 failed_attempts = 0     # 현재 실패 횟수 (전역에서 관리)
