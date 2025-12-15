@@ -1,3 +1,7 @@
+(중요) *** Doorlockrg.py가 최종 프로젝트 소스 코드 입니다! *** 
+
+스마트 도어락 시스템 
+
 pi@raspberrypi:~ $ cd embedded_project
 
 pi@raspberrypi:~ $ python3 Doorlockrg.py
